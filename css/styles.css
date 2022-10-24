@@ -35,7 +35,6 @@
   --bs-gray-900: #212529;
   --bs-primary: #0d6efd;
   --bs-secondary: #6c757d;
-  --bs-tertiary: #584070;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -7814,11 +7813,6 @@ textarea.form-control-lg {
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
-}
-
-.bg-tertiary {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-tertiary-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-success {
